@@ -428,4 +428,3 @@ uv run python scripts/gen_protocol_doc.py --check
 
 ## License
 
-MIT © 2026 programmer Carl
